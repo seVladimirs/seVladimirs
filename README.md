@@ -16,7 +16,7 @@ All my expiereince is somehow connected with SAP technologies. However last few 
   <img align="center" src="https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/activity/vladimirs.semikins" />
 </a>
 </br>
-<a href="https://people.sap.com/thomas.jung#reputation">
+<a href="https://vladimirs.semikins#overview">
   <img align="center" src="https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/showcaseBadges/vladimirs.semikins" />
 </a>
 </p>
