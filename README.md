@@ -11,12 +11,12 @@ All my expiereince is somehow connected with SAP technologies. However last few 
 
 
 ## SAP Community Activity
-<p align = "center">
+<p align = "left">
 <a href="https://people.sap.com/vladimirs.semikins#overview">
-  <img align="center" src="https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/activity/vladimirs.semikins" />
+  <img align="left" src="https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/activity/vladimirs.semikins" />
 </a>
 </br>
 <a href="https://vladimirs.semikins#overview">
-  <img align="center" src="https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/showcaseBadges/vladimirs.semikins" />
+  <img align="left" src="https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/showcaseBadges/vladimirs.semikins" />
 </a>
 </p>
